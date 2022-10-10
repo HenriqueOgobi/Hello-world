@@ -1,4 +1,4 @@
 # Hello world
- First repository course on git and github
+ First repository 
 
 Repository created during a live class
